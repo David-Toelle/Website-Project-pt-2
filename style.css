@@ -134,7 +134,7 @@ img:hover {
 }
 
 form {
-  margin-top: 5%;
+  margin-top: 5% !important;
   display: flex;
   flex-direction: column;
 }
